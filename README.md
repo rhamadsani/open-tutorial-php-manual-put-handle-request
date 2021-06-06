@@ -10,7 +10,7 @@
     uncoment this code ('id') with your key request ex :
     $keyVal['name'] or just use $keyVal for whole input body
 
-    ![Postman](postman.png)
+![Postman](postman.png)
 
 - Thanks
     hope improve your code!
